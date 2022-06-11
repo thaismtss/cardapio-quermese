@@ -1,0 +1,10 @@
+body {
+    height: 90vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-image: url('./quermese_page-0001.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
