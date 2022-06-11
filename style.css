@@ -1,11 +1,16 @@
 body {
   margin: 0;
   padding: 0;
-  box-shadow: none;
-  overflow: hidden;
-  width: 100vw;
-  height: 100vh;
-  background: url('./quermese_page-0001.jpg') no-repeat  center;
-  background-position: center;
-  background-size: 100% 98%;
+  background-color: #F2D5CB;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 98vh;
+    background: url('./quermese_page-0001.jpg') no-repeat scroll center;
+    background-position: center;
+    background-size: 95% 95%;
 }
